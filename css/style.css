@@ -2,12 +2,10 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 
-
 @import "./global/header.css";
 
-/*------ utilidades ------*/
+/* Utilidades */
 @import "./utilidades/componentes.css";
 
-/*------ Home ------*/
+/* Home */
 @import "./home/introducao.css";
-
