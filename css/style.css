@@ -9,3 +9,7 @@
 
 /* Home */
 @import "./home/introducao.css";
+
+/* Bicicletas */
+@import "./Bicicletas/bicicleta-lista.css";
+
