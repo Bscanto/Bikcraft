@@ -75,7 +75,7 @@
   margin-right: 8px;
 }
 
-@media (max-width: 800px) {
+@media (max-width:  800px) {
   .bicicletas-bg {
     background: var(--cor-11);
   }
