@@ -10,13 +10,14 @@
 }
 
 .seguro-imagem img {
-width: 100%;
-height: 100%;
-object-fit: cover;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
+
 .seguro-conteudo {
   padding-top: 180px;
-  margin-bottom: 180px;
+  padding-bottom: 180px;
 }
 
 .seguro h2 {
@@ -34,10 +35,9 @@ object-fit: cover;
   .seguro {
     grid-template-columns: 1fr;
   }
-
   .seguro-conteudo {
     grid-row: 1;
     padding-top: 40px;
-    margin-bottom: 0px;
+    padding-bottom: 0px;
   }
 }
